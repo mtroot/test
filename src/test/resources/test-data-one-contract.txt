@@ -1,0 +1,5 @@
+{"name":"ContractCreatedEvent","contractId":"8","premium":100,"startDate":"2020-01-01"}
+{"name":"PriceDecreasedEvent","contractId":"8","premiumReduction":10,"atDate":"2020-02-01"}
+{"name":"PriceIncreasedEvent","contractId":"8","premiumIncrease":10,"atDate":"2020-03-01"}
+{"name":"PriceIncreasedEvent","contractId":"8","premiumIncrease":10,"atDate":"2020-04-01"}
+{"name":"ContractTerminatedEvent","contractId":"8","terminationDate":"2020-04-30"}

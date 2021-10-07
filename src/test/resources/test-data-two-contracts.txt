@@ -1,0 +1,10 @@
+{"name":"ContractCreatedEvent","contractId":"8","premium":100,"startDate":"2020-01-01"}
+{"name":"PriceDecreasedEvent","contractId":"8","premiumReduction":10,"atDate":"2020-02-01"}
+{"name":"PriceIncreasedEvent","contractId":"8","premiumIncrease":10,"atDate":"2020-03-01"}
+{"name":"PriceIncreasedEvent","contractId":"8","premiumIncrease":10,"atDate":"2020-04-01"}
+{"name":"ContractTerminatedEvent","contractId":"8","terminationDate":"2020-04-30"}
+{"name":"ContractCreatedEvent","contractId":"18","premium":200,"startDate":"2020-03-01"}
+{"name":"PriceDecreasedEvent","contractId":"18","premiumReduction":50,"atDate":"2020-04-01"}
+{"name":"PriceIncreasedEvent","contractId":"18","premiumIncrease":50,"atDate":"2020-05-01"}
+{"name":"PriceIncreasedEvent","contractId":"18","premiumIncrease":50,"atDate":"2020-06-01"}
+{"name":"ContractTerminatedEvent","contractId":"18","terminationDate":"2020-06-30"}
